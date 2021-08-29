@@ -1,0 +1,13 @@
+C:\Users\Kamal\Documents\Personal-Project\CardGame\bin\Debug\netcoreapp2.1\CardGame.deps.json
+C:\Users\Kamal\Documents\Personal-Project\CardGame\bin\Debug\netcoreapp2.1\CardGame.runtimeconfig.json
+C:\Users\Kamal\Documents\Personal-Project\CardGame\bin\Debug\netcoreapp2.1\CardGame.runtimeconfig.dev.json
+C:\Users\Kamal\Documents\Personal-Project\CardGame\bin\Debug\netcoreapp2.1\CardGame.dll
+C:\Users\Kamal\Documents\Personal-Project\CardGame\bin\Debug\netcoreapp2.1\CardGame.pdb
+C:\Users\Kamal\Documents\Personal-Project\CardGame\obj\Debug\netcoreapp2.1\CardGame.csproj.AssemblyReference.cache
+C:\Users\Kamal\Documents\Personal-Project\CardGame\obj\Debug\netcoreapp2.1\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamal\Documents\Personal-Project\CardGame\obj\Debug\netcoreapp2.1\CardGame.AssemblyInfoInputs.cache
+C:\Users\Kamal\Documents\Personal-Project\CardGame\obj\Debug\netcoreapp2.1\CardGame.AssemblyInfo.cs
+C:\Users\Kamal\Documents\Personal-Project\CardGame\obj\Debug\netcoreapp2.1\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Kamal\Documents\Personal-Project\CardGame\obj\Debug\netcoreapp2.1\CardGame.dll
+C:\Users\Kamal\Documents\Personal-Project\CardGame\obj\Debug\netcoreapp2.1\CardGame.pdb
+C:\Users\Kamal\Documents\Personal-Project\CardGame\obj\Debug\netcoreapp2.1\CardGame.genruntimeconfig.cache

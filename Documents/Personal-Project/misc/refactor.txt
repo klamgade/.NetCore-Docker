@@ -1,0 +1,10 @@
+
+Strucutre:
+ - Card class is the actual entity that is used out from the deck. Card has a face (range from Ace to King)and suit(4 types) property.
+ - Deck class has a logic to shuffle card action and a action to deal it to all four players.
+ - Program class runs the actual game where it currently generate a new deck, shuffle it and deal the card to four players.
+ - Player class which can have a properties as name, collection of cards for the player etc. 
+
+
+- To develop this card game a console app is created and is based on the OOP paradigm. 
+- Further work on this can be to provide logic of the actual game type and the actions that each player will take. Based on the action and game rule, result of the game can be displayed.
